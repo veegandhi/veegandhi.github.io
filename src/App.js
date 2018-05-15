@@ -1,20 +1,12 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { Landing } from './components';
+import { SideNav, Section } from './components';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to this profile</h1>
-        </header>
-        <p className="App-intro">
-          Watchout for this space to be coming soon.
-        </p>
-        <Landing />
+        <SideNav />
+        <Section />
       </div>
     );
   }
