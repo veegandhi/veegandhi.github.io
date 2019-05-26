@@ -1,9 +1,9 @@
 .bg-primary {
-  background-color: $primary !important;
+  background-color: $primary;
 }
 
 .text-primary {
-  color: $primary !important;
+  color: $primary;
 }
 
 a {
@@ -13,4 +13,8 @@ a {
   &:active {
     color: darken($primary, 15%);
   }
+}
+
+.description {
+  text-align: justify;
 }

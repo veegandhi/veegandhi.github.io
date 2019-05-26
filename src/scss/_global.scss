@@ -1,5 +1,6 @@
 // Global styling for this template
 $fa-font-path: "../../node_modules/font-awesome/fonts";
+
 body {
   @include body-font;
   padding-top: 54px;
@@ -19,14 +20,14 @@ h4,
 h5,
 h6 {
   @include heading-font;
-  font-weight: 700 !important;
+  font-weight: 700;
   text-transform: uppercase;
   color: $gray-800;
 }
 
 h1 {
-  font-size: 6rem !important;
-  line-height: 5.5rem !important;
+  font-size: 6rem;
+  line-height: 5.5rem;
 }
 
 h2 {

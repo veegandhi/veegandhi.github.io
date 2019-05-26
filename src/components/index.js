@@ -1,3 +1,3 @@
-export { default as Landing } from './landing/landing';
-export { default as SideNav } from './sidenav/sidenav';
-export { default as Section } from './data-section/section';
+export { default as SideNav } from "./sidenav";
+export { default as Wrapper } from "./section-wrapper";
+export { default as SocialIcon } from "./social-icon";
