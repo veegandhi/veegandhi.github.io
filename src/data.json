@@ -3,31 +3,66 @@
     "heading": "Experience",
     "roles": [
       {
-        "title": "Senior Web Developer",
+        "title": "Lead Frontend Developer",
+        "company": "Adslot",
+        "description": [
+          "Contributing to front-end decision-making and architecture",
+          "Maintaining team focus on reusable code, patterns and libraries",
+          "Optimising application for maximum performance, maintainability and Scalability",
+          "Maintaining <a href='https://ui.adslot.com' target='_blank'>open-source UI</a> pattern libraries in React.",
+          "Collaborating and communicate with Front-End/Full-Stack Developers and stakeholders",
+          "Mentoring, training and organising other Developers",
+          "Conducting thorough and constructive code-reviews and unit-tests"
+        ],
+        "timespan": "November 2018 - Present"
+      },
+      {
+        "title": "Senior/Lead Web Developer",
         "company": "Telstra",
-        "description":
-          "<ul><li>Leading and maintaining frontend application for prepaid activation.</li><li>Using agile/lean for software development, including TDD/BDD, pairing, and continuous integration.</li><li>Driving the UX to make sure the application is responsive on web development, cross-browser andplatform agnostic.</li><li>Mentoring offshore developers in React development and ensure smooth bi-weekly development cyclewith efficient source control management.</li><li>Analysing business requirements to propose software design approach</li><li>Designing collateral mock ups for marketing, analytics and business units;</li></ul>",
-        "timespan": "June 2017 - Present"
+        "description": [
+          "Leading and maintaining frontend application for prepaid activation.",
+          "Using agile/lean for software development, including TDD/BDD, pairing, and continuous integration.",
+          "Driving the UX to make sure the application is responsive on web development, cross-browser andplatform agnostic.",
+          "Mentoring offshore developers in React development and ensure smooth bi-weekly development cyclewith efficient source control management.",
+          "Analysing business requirements to propose software design approach",
+          "Designing collateral mock ups for marketing, analytics and business units;"
+        ],
+        "timespan": "June 2017 - November 2018"
       },
       {
         "title": "Web Developer",
         "company": "ERM Power",
-        "description":
-          "<ul><li>Developing user interface and engineering user experience for customer portal built on EmberJS</li><li>Formulating &amp; standardizing the ERM look and feel across internal and external projects</li><li>Analysing business requirements to propose software design approach</li><li>Driving the customer facing look and feel of ERM Web user interfaces</li><li>Designing collateral mock ups for marketing and business units;</li><li>Providing guidance for user experience and system implementation.</li></ul>",
+        "description": [
+          "Developing user interface and engineering user experience for customer portal built on EmberJS",
+          "Formulating &amp; standardizing the ERM look and feel across internal and external projects",
+          "Analysing business requirements to propose software design approach",
+          "Driving the customer facing look and feel of ERM Web user interfaces",
+          "Designing collateral mock ups for marketing and business units;",
+          "Providing guidance for user experience and system implementation."
+        ],
         "timespan": "June 2016 - June 2017"
       },
       {
         "title": "Software Developer",
         "company": "University of Technology Sydney (UTS)",
-        "description":
-          "<ul><li>Developing, maintaining and cross platform testing frontend application build on Angular 1.5.</li><li>Integrating Bootstrap, Angular Material and Foundation frameworks to enhance look and feel of web application as required.</li><li>Integrating third party directives for enhance user experience, faster development and securing application.</li><li>Creating automated test suite (Protractor), which ensures bug free software during production builds.</li><li>Integrating social media platforms into the application like Google, LinkedIn and Facebook for authentication and advertisement.</li><li>Maintaining instances on AWS, code deployment and load balancing on servers for incoming traffic.</li><li>Researching new technologies to integrate into client’s current business model.</li></ul>",
+        "description": [
+          "Developing, maintaining and cross platform testing frontend application build on Angular 1.5.",
+          "Integrating Bootstrap, Angular Material and Foundation frameworks to enhance look and feel of web application as required.",
+          "Integrating third party directives for enhance user experience, faster development and securing application.",
+          "Creating automated test suite (Protractor), which ensures bug free software during production builds.",
+          "Integrating social media platforms into the application like Google, LinkedIn and Facebook for authentication and advertisement.",
+          "Maintaining instances on AWS, code deployment and load balancing on servers for incoming traffic.",
+          "Researching new technologies to integrate into client’s current business model."
+        ],
         "timespan": "June 2015 - June 2016"
       },
       {
         "title": "Software Developer",
         "company": "Bombardier Transportation Australia",
-        "description":
-          "<ul><li>Full Stack development using MVC architecture in PHP, JavaScript, Bootstrap, Ajax and jQuery using MySQL as backend database.</li><li>Developing project plans, schedule, budget and risk assessment.</li></ul>",
+        "description": [
+          "Full Stack development using MVC architecture in PHP, JavaScript, Bootstrap, Ajax and jQuery using MySQL as backend database.",
+          "Developing project plans, schedule, budget and risk assessment."
+        ],
         "timespan": "June 2014 - June 2015"
       }
     ]
@@ -36,8 +71,7 @@
     "firstName": "Vandish",
     "lastName": "Gandhi",
     "email": "vandish.gandhi@hotmail.com",
-    "description":
-      "I am a frontend developer who is strongly focused on React, AngularJS and Ember, having commercial experience of 4 years. I am ICAgile certified for agile fundamental practices and a team player ranging from my primary specialisation on the front-end to API engineering and infrastructure setup for cross platform apps. I am interested in working for business and analytical web application solutions.",
+    "description": "I am a experienced lead frontend developer who is strongly focused on javascript(primarily frontend) ecosystem. I have React, Angular, Vue and Ember’s commercial experience of 6+ years. I am ICAgile certified for agile fundamental practices and a team player ranging from my primary specialisation on the front-end to API engineering and infrastructure setup for cross platform apps. In conjunction with proven people/(pro)developers management skills, I host a strong project, resource and development management skills.",
     "socialIcons": [
       {
         "icon": "linkedin",

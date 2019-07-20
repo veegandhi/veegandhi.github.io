@@ -2,7 +2,6 @@ import React from "react";
 
 const Icon = ({ icon = {} }) => (
   <li className="list-inline-item">
-    {console.log(icon)}
     <a href={icon.link} rel="noopener noreferrer" target="_blank">
       <span className="fa-stack fa-lg">
         <i className="fa fa-circle fa-stack-2x" />
